@@ -50,6 +50,7 @@ Read the design justification [here](project_justification.md).
 ## Milestones
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+
 | Phase | Completion Date |
 | --- | --- |
 | Initiation | Week 7 |
@@ -63,7 +64,6 @@ Read the design justification [here](project_justification.md).
 ## Schedule of Rates
 [//]: # (### Schedule of Rates)
 [//]: # (This is where you would list your hourly rates and time estimations)
-
 #### GitHub Wiki
 
 | Employee | Hourly Rate | Time Estimate | Total |
