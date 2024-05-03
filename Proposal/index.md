@@ -1,7 +1,7 @@
 # Project Overview
 [//]: # (This section is an example structure for the proposal to your client.)
 
-We have chosen the 2D/3D sidescroller platformer game. The player will be able to walk, run, jump and be damaged. Think mario but with a little twist to it.
+We have chosen the 2D/3D sidescroller platformer game. The player will be able to walk, run, jump and be damaged. Think Mario but with a little twist to it.
 
 ## Design
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
@@ -38,7 +38,7 @@ Read the design justification [here](project_justification.md).
 * Project delivered on time
 * Weekly updates on progress
 * Client was to be able to put their own artistic spin on it
-* Game is similar to old-school mario games
+* Game is similar to old-school Mario games
 * Does **not** require audio
 * Does **not** require high quality art
 
@@ -69,28 +69,32 @@ Read the design justification [here](project_justification.md).
 | Employee | Hourly Rate | Time Estimate | Total |
 | --- | --- | --- | --- |
 | Keiran Bunyan | $75 | 5-10 Hours | $375 - $750 |
-| Simon Courtney | ??? | ??? | ??? |
+| Simon Courtney | $75 | 5-10 Hours | $375 - $750 |
 
-<b>Total: </b>
+**Total: $1500**
 
 #### Early Prototype
 
 | Employee | Hourly Rate | Time Estimate | Total |
 | --- | --- | --- | --- |
 | Keiran Bunyan | $75 | 10-15 Hours | $750 - $1125 |
-| Simon Courtney | ??? | ??? | ??? |
+| Simon Courtney | $75 | 10-15 Hours | $750 - $1125 |
 
-<b>Total: </b>
+**Total: $2250**
 
 #### Fine Tuning Prototype/Bug Fixes & Testing
 
 | Employee | Hourly Rate | Time Estimate | Total |
 | --- | --- | --- | --- |
 | Keiran Bunyan | $75 | 5 Hours | $375 |
-| Simon Courtney | ??? | ??? | ??? |
+| Simon Courtney | $75 |5 Hours | $375|
 
-<b>Total: </b>
+**Total: $750**
+
+**Overal Total: $4500**
 
 ## Agreement
 [//]: # (List out the arrangement)
 Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or, quoted separately.
+
+
