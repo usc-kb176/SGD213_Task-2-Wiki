@@ -4,10 +4,9 @@
 
 
 ## Introduction
-This wiki discusses the client requirements for the <b><i>Road Runner's Escape</b></i> project.
-This project is being completed by <b><i>Roadrunner Gaming</b></i> for <b>Arden Sedmak & Olexiy Telyakov</b>.
-The handover date for the project is <b>Friday the 31st of May 2024</b>. 
-[Add something]
+This wiki discusses the client requirements for the **Road Runner's Escape** project.
+This project is being completed by **Roadrunner Gaming** for **Arden Sedmak & Olexiy Telyakov**.
+The handover date for the project is **Friday the 31st of May 2024**. 
 
 ## Table of Contents
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
