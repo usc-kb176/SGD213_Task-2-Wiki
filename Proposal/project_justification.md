@@ -25,6 +25,8 @@
 # Justification
 [//]: # (This section is an example of justifying your design and development decisions.)
 
+Please Note: This document is not intended for our client. The only documents our client will receive are the Proporal and Architecture Options.
+
 ## Overview
 
 ### Brief
