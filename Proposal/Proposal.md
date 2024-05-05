@@ -180,6 +180,8 @@ The game design will look as follows:
 
 ![alt text](<Game Layout.png>)
 
+*Roadrunner images obtained from internet commons*
+
 ## Anticipated Completion Schedule
 
 Deadline | Task
