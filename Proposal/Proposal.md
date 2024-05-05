@@ -4,7 +4,6 @@
 ## Pages
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architecture](../Architecture/Architecture%20Options.md)
-* [Justification](../Proposal/project_justification.md)
 * [Home](../README.md)
 
 ## Table of Contents
