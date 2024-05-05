@@ -1,3 +1,5 @@
+![alt text](../Proposal/Logo.png)
+
 # Architecture Options
 
 Architectural decisions play a crucial role in shaping the structure, scalability, and maintainability of a game project.
@@ -26,7 +28,7 @@ Similarly, inheritance can be utilized to create a hierarchy of game objects wit
 ### Reasons for Our Recommendation
 
 #### Code Reusability
-By defining common attributes in a parent class these properties and methods can be used multiple times across different sub classes. For example, applying this concept to pickups in your sidescrolling game, each pickup shares common features such as spawning and being collected. These features are inherited by specific pickup types. But these specific pickups would also have their own unique features such as awarding points in the case of a treasure pickup or restoring player health in the case of a health pickup.
+By defining common attributes in a parent class these properties and methods can be used multiple times across different sub classes. For example, applying this concept to pickups in your side-scrolling game, each pickup shares common features such as spawning and being collected. These features are inherited by specific pickup types. But these specific pickups would also have their own unique features such as awarding points in the case of a treasure pickup or restoring player health in the case of a health pickup.
 
 #### Organised Code Structure
 Inheritance promotes a structured approach to your project, making it easier to maintain and provides scalability. By providing an inheritance hierarchy, you can easily identify and understand relationships between different game objects.
@@ -35,7 +37,15 @@ The benefit to you from this approach is that it lays the code out in a manner t
 
 Naturally, variables and classes will be labelled in a manner that make such amendments intuitive.
 
-We have provided a couple of UML diagrams which illustrate how these classes interact and the ease with which they can be amended or new objects created.
+We have provided the following UML diagrams which illustrate how these classes interact and the ease with which they can be amended or new objects created.
+
+**Enemy Object UML**
+
+![alt text](<UML Enemy.png>)
+
+**Pickup Object UML**
+
+![alt text](<UML Pickup.png>)
 
 #### Data Hiding
 
@@ -45,12 +55,12 @@ Consequently, you can be confident that any changes you apply in making new leve
 
 #### Decreased Execution Speed
 
-One of the challenges with using inheritances is that it can take longer to execute things which can cause lag. Though this usually only occurs with poor prgram design. Therefore, are not of the view that this challenge outweighs the advantage inheritance offers for your particular application.
+One of the challenges with using inheritances is that it can take longer to execute things which can cause lag. Though this usually only occurs with poor program design. Therefore, are not of the view that this challenge outweighs the advantage inheritance offers for your particular application.
 
 Plus, we can deal with this issue in designing your game. All game objects will be created at the beginning of the game and reused. Freeing up resources for other tasks.
 
 ## Interfaces
-Interfaces are analagous to a contract for classes. They specify a set of methods that implementing classes must adopt. However, unlike inheritance, they provide no implementation. Each class must have its own code for these methods. 
+Interfaces are analogous to a contract for classes. They specify a set of methods that implementing classes must adopt. However, unlike inheritance, they provide no implementation. Each class must have its own code for these methods. 
 
 Interfaces area good way to provide a common set of behaviours across multiple game objects while allowing for differences in behaviour.
 

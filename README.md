@@ -1,6 +1,6 @@
 # Task 2: Developing a Technical Specification
 - Keiran Bunyan (1139776) 
-- Simon Courtney (#ID)
+- Simon Courtney (1168372)
 
 
 ## Introduction

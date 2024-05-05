@@ -1,3 +1,5 @@
+![alt text](Logo.png)
+
 # Justification
 [//]: # (This section is an example of justifying your design and development decisions.)
 

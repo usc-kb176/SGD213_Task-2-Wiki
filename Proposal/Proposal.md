@@ -1,3 +1,5 @@
+
+![alt text](Logo.png)
 # Road Runner Escape 
 
 ## The Game
@@ -22,6 +24,7 @@ Internet Commons | This will be the source of  placeholder character art
 Visual Studio Code | Scripting in C#
 Future Development | Music and audio effects
 
+The game architecture will rely heavily on inheritance. See discussion in [Architecture Options](Architecture\options.md) 
 
 ## Gameplay
 
@@ -147,7 +150,9 @@ Enemies will be instantiated and will move in one direction. There will be the o
 
 This stage of game development operates on the understanding that game artwork will be provided by a third party. We will develop with our own placeholder artwork that can easily be swapped out.
 
-Included with this proposal is a simple sketch of the game.
+The game design will be as follows:.
+
+![alt text](<Game Layout.png>)
 
 # Anticipated Completion Schedule
 
@@ -159,3 +164,11 @@ Week 12 | Enemies and pickups
 Week 13 | Scoring, menus, loading and saving game
 
 Naturally, we will advise if it looks like we may fall behind in schedule.
+
+# Agreement
+
+By accepting this proposal you agree to enter into a contract with Roadrunner Gaming, Inc for the development of the above game. 
+
+Such contract will be governed by our standard terms and conditions (available on our website or on request). The "Product" referred to in these terms and conditions is the game described in this document.
+
+
