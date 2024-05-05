@@ -141,8 +141,21 @@ To facilitate this, Serialised Fields (a feature in Unity) will be implemented. 
 
 ### Opponent and Enemy AI
 
+Enemies will be instantiated and will move in one direction. There will be the option to have enemies change direction for more difficult levels.
+
 ## Game Art
 
 This stage of game development operates on the understanding that game artwork will be provided by a third party. We will develop with our own placeholder artwork that can easily be swapped out.
 
 Included with this proposal is a simple sketch of the game.
+
+# Anticipated Completion Schedule
+
+Deadline | Task
+---|---
+Week 10 | Moveable game character
+Week 11 | Scrollable background and scenery
+Week 12 | Enemies and pickups
+Week 13 | Scoring, menus, loading and saving game
+
+Naturally, we will advise if it looks like we may fall behind in schedule.

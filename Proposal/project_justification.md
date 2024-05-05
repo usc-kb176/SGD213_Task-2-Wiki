@@ -83,6 +83,10 @@ I would like the player to be able to walk, run, jump, and be damaged. This woul
 ## Justification
 Given the client's preferences for simplicity, market appeal, and Looney Tunes-inspired whimsy, we've proposed "Road Runner's Escape" as the game concept. This title encapsulates the fast-paced platforming action reminiscent of classic Mario games, while also appealing to the client's affinity for Looney Tunes characters. The concept allows for a straightforward yet engaging gameplay experience, aligning with the project's objectives and constraints.
 
+The client, having little experience with writing code, needs a game design that allows new game objects and levels to be easily created or modified. For this reason our game architecture will rely heavily on inheritance. 
+
+This way the more complex and critical code can be hidden in the parent class where it cannot be amended by mistake. The child classes will have intuitively named variables which the client can access in Unity to change attributes of enemies and pickups. This design will also allow the client to easily swap out artwork and best fits client expectations.
+
 ## Contents
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architectural Options](../Architecture/options.md)
