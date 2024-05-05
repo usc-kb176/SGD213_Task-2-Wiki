@@ -41,7 +41,7 @@ Destruction of an enemy is achieved by landing on top of it.
 
 There will be several pickups, which will either award points or restore the player character's health.
 
-A level will be completed when a player has accumulated a certain number of points. Though, should you prefer, we can include an option to complete after a certain number of task have been completed. A timer will be used to determine if these thresholds have been met in time to complete the level.
+A level will be completed when a player has accumulated a certain number of points. Though, should you prefer, we can include an option to complete after a certain number of tasks have been completed. A timer will be used to determine if these thresholds have been met in time to complete the level.
 
 ## Specifications
 Software | Purpose
