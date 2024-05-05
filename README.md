@@ -11,4 +11,4 @@ The handover date for the project is **Friday the 31st of May 2024**.
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](./Proposal/Proposal.md)
 * [Justification](./Proposal/project_justification.md)
-* [Architecture](./Architecture/options.md)
+* [Architecture](./Architecture/Architecture%20Options.md.md)
