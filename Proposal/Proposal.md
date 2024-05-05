@@ -31,10 +31,7 @@ Internet Commons | This will be the source of placeholder character art
 Visual Studio Code | Scripting in C#
 Future Development | Music and audio effects
 
-The game architecture will rely heavily on inheritance. See discussion in [Architecture](Architecture\options.md) 
-
-## Justification
-Read the design justification [here](project_justification.md).
+The game architecture will rely heavily on inheritance. See discussion in [Architecture Options](<../Architecture/Architecture Options.md>)
 
 ## Gameplay
 
