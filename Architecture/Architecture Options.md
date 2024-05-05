@@ -1,10 +1,27 @@
 ![alt text](../Proposal/Logo.png)
 
-## Table of Contents
+## Pages
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Proposal](../Proposal/Proposal.md)
 * [Justification](../Proposal/project_justification.md)
 * [Home](../README.md)
+
+## Table of Contents
+* [Architecture Options](#architecture-options)
+  * [Inheritance](#inheritance)
+    * [Reasons for Our Recommendation](#reasons-for-our-recommendation)
+      * [Code Reusability](#code-reusability)
+      * [Organised Code Structure](#organised-code-structure)
+      * [Data Hiding](#data-hiding)
+      * [Decreased Execution Speed](#decreased-execution-speed)
+  * [Interfaces](#interfaces)
+    * [Reasons for Using Interfaces](#reasons-for-using-interfaces)
+      * [Flexibility](#flexibility)
+      * [Loose Coupling](#loose-coupling)
+  * [Component Pattern](#component-pattern)
+    * [Reasons for Using Component Pattern](#reasons-for-using-component-pattern)
+      * [Modularity](#modularity)
+      * [Dynamic Composition](#dynamic-composition)
 
 # Architecture Options
 

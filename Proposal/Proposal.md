@@ -1,12 +1,33 @@
 
 ![alt text](Logo.png)
 
-
-## Table of Contents
+## Pages
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architecture](../Architecture/options.md)
 * [Justification](../Proposal/project_justification.md)
 * [Home](../README.md)
+
+## Table of Contents
+* [The Game](#the-game)
+* [Specifications](#specifications)
+* [Justification](#justification)
+* [Gameplay](#gameplay)
+  * [Game Progression](#game-progression)
+* [Mechanics](#mechanics)
+  * [Movement in the Game](#movement-in-the-game)
+  * [Actions](#actions)
+  * [Enemies](#enemies)
+  * [Pickups](#pickups)
+  * [Collisions](#collisions)
+  * [Scoring](#scoring)
+  * [Screen Flow](#screen-flow)
+* [Game Options](#game-options)
+* [Levels](#levels)
+* [Artificial Intelligence](#artificial-intelligence)
+  * [Opponent and Enemy AI](#opponent-and-enemy-ai)
+* [Game Art](#game-art)
+* [Anticipated Completion Schedule](#anticipated-completion-schedule)
+* [Agreement](#agreement)
 
 # Road Runner Escape 
 ## The Game

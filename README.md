@@ -7,7 +7,7 @@ This wiki discusses the client requirements for the **Road Runner's Escape** pro
 This project is being completed by **Roadrunner Gaming** for **Arden Sedmak & Olexiy Telyakov**.
 The handover date for the project is **Friday the 31st of May 2024**. 
 
-## Table of Contents
+## Pages
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](./Proposal/Proposal.md)
 * [Justification](./Proposal/project_justification.md)

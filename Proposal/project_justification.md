@@ -1,10 +1,26 @@
 ![alt text](Logo.png)
 
-## Table of Contents
+## Pages
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architecture](../Architecture/options.md)
 * [Proposal](../Proposal/Proposal.md)
 * [Home](../README.md)
+
+## Table of Contents
+* [Justification](#justification)
+  * [Overview](#overview)
+    * [Brief](#brief)
+    * [Communication](#communication)
+  * [Project Understanding](#project-understanding)
+    * [Requirements](#requirements)
+    * [Expectations](#expectations)
+    * [Assumptions](#assumptions)
+  * [Risks](#risks)
+    * [Risks](#risks-1)
+    * [Risk Management](#risk-management)
+  * [Constraints](#constraints)
+    * [Constraints](#constraints-1)
+  * [Justification](#justification-1)
 
 # Justification
 [//]: # (This section is an example of justifying your design and development decisions.)
