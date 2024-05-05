@@ -2,7 +2,7 @@
 
 ## Table of Contents
 [//]: # (You need to populate these pages, they are part of your grades)
-* [Proposal](../Proposal/proposal.md)
+* [Proposal](../Proposal/Proposal.md)
 * [Justification](../Proposal/project_justification.md)
 * [Home](../README.md)
 

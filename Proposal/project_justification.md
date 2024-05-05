@@ -3,7 +3,7 @@
 ## Table of Contents
 [//]: # (You need to populate these pages, they are part of your grades)
 * [Architecture](../Architecture/options.md)
-* [Proposal](../Proposal/proposal.md)
+* [Proposal](../Proposal/Proposal.md)
 * [Home](../README.md)
 
 # Justification
