@@ -1,5 +1,11 @@
 ![alt text](../Proposal/Logo.png)
 
+## Table of Contents
+[//]: # (You need to populate these pages, they are part of your grades)
+* [Proposal](../Proposal/proposal.md)
+* [Justification](../Proposal/project_justification.md)
+* [Home](../README.md)
+
 # Architecture Options
 
 Architectural decisions play a crucial role in shaping the structure, scalability, and maintainability of a game project.
@@ -37,7 +43,7 @@ The benefit to you from this approach is that it lays the code out in a manner t
 
 Naturally, variables and classes will be labelled in a manner that make such amendments intuitive.
 
-We have provided the following UML diagrams which illustrate how these classes interact and the ease with which they can be amended or new objects created.
+We have provided the following UML diagrams which illustrate how these classes interact and the ease with which they can be amended, or new objects created.
 
 **Enemy Object UML**
 
@@ -97,8 +103,3 @@ The component pattern allows for dynamic composition of game objects at runtime.
 
 We will adopt this type of architecture for things like player movement. Note: This will not impact on your ability to easily add new objects and levels using inheritance.
 
-
-## Contents
-[//]: # (You need to populate these pages, they are part of your grades)
-* [Chosen Architecture](architecture.md)
-* [Home](../README.md)

@@ -1,5 +1,11 @@
 ![alt text](Logo.png)
 
+## Table of Contents
+[//]: # (You need to populate these pages, they are part of your grades)
+* [Architecture](../Architecture/options.md)
+* [Proposal](../Proposal/proposal.md)
+* [Home](../README.md)
+
 # Justification
 [//]: # (This section is an example of justifying your design and development decisions.)
 
@@ -7,10 +13,9 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-Hello! I’m looking for a simple 2D/3D sidescroller platformer game (2D sprites or 3D models - Must be sidescrolling). I want to focus on the art and I’m not so good with programming. I would need the game to be laid out in a way I could make levels, and enemies, control a player, and create pickups. 
+Hello! I’m looking for a simple 2D/3D side scroller platformer game (2D sprites or 3D models - Must be side scrolling). I want to focus on the art and I’m not so good with programming. I would need the game to be laid out in a way I could make levels, and enemies, control a player, and create pickups. 
 
 I would like the player to be able to walk, run, jump, and be damaged. This would be very similar to the old-school Mario games! However, I want to put my art spin on it.
-
 
 ### Communication
 * When do you need this prototype by?
@@ -23,10 +28,10 @@ I would like the player to be able to walk, run, jump, and be damaged. This woul
 > Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
 
 * Do you need a menu system?
-> Well since I want you to make a proof of concept to show investors, I currently do not need a menu system but keep it in the back of your mind so we can add it futher down the line.
+> Well since I want you to make a proof of concept to show investors, I currently do not need a menu system but keep it in the back of your mind so we can add it further down the line.
 
 * Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like Looney Tunes though! I think silly games catch people's eyes?
+> Hmm... not really. I do like Looney Tunes though! I think silly games catch people's eyes.
 
 ---
 
@@ -67,7 +72,7 @@ I would like the player to be able to walk, run, jump, and be damaged. This woul
 [//]: # (How are you managing the mentioned risks)
 * Designing code with extensibility in mind.
 * Implementing thorough testing throughout development.
-* Using source control we will ensure our code is safe and usable at all times
+* Using source control, we will ensure our code is safe and usable at all times
 * Maintaining constant communication within the team and addressing any issues promptly.
 
 ---
@@ -85,13 +90,7 @@ I would like the player to be able to walk, run, jump, and be damaged. This woul
 ## Justification
 Given the client's preferences for simplicity, market appeal, and Looney Tunes-inspired whimsy, we've proposed "Road Runner's Escape" as the game concept. This title encapsulates the fast-paced platforming action reminiscent of classic Mario games, while also appealing to the client's affinity for Looney Tunes characters. The concept allows for a straightforward yet engaging gameplay experience, aligning with the project's objectives and constraints.
 
-The client, having little experience with writing code, needs a game design that allows new game objects and levels to be easily created or modified. For this reason our game architecture will rely heavily on inheritance. 
+The client, having little experience with writing code, needs a game design that allows new game objects and levels to be easily created or modified. For this reason, our game architecture will rely heavily on inheritance. 
 
 This way the more complex and critical code can be hidden in the parent class where it cannot be amended by mistake. The child classes will have intuitively named variables which the client can access in Unity to change attributes of enemies and pickups. This design will also allow the client to easily swap out artwork and best fits client expectations.
 
-## Contents
-[//]: # (You need to populate these pages, they are part of your grades)
-* [Architectural Options](../Architecture/options.md)
-* [Architecture Index](../Architecture/index.md)
-* [Chosen Architecture](../Architecture/architecture.md)
-* [Home](../README.md)

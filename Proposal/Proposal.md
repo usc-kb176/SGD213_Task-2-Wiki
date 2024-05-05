@@ -1,49 +1,59 @@
 
 ![alt text](Logo.png)
-# Road Runner Escape 
 
+
+## Table of Contents
+[//]: # (You need to populate these pages, they are part of your grades)
+* [Architecture](../Architecture/options.md)
+* [Justification](../Proposal/project_justification.md)
+* [Home](../README.md)
+
+# Road Runner Escape 
 ## The Game
 
 Road Runner Escape is a side-scroller with multiple levels based on Super Mario. We believe there is a nostalgia market for such games and our aim is to improve this much-loved classic through the introduction of eye-catching graphics and progressively more difficult levels. 
 
 The player character ("**Road Runner**") moves in jump 'n' run style as it navigates each level. Collecting pickups and defeating enemies along the way.
 
-Each level consists of a platform, hills and interactive elements such as pickups. To make it more challenging randomly generated enemies will appear which Road Runner will either evade or destroy.
+Each level consists of a platform, hills, and interactive elements such as pickups. To make it more challenging randomly generated enemies will appear which Road Runner will either evade or destroy.
 
 Destruction of an enemy is achieved by landing on top of it.
 
 There will be several pickups, which will either award points or restore the player character's health.
 
-A level will be completed when a player has accumulated a certain number of points. Though, should you prefer, we can include an option to coplete after a certain number of task have been completed. A timer will be used to determine if these thresholds have been met in time to complete the level.
+A level will be completed when a player has accumulated a certain number of points. Though, should you prefer, we can include an option to complete after a certain number of task have been completed. A timer will be used to determine if these thresholds have been met in time to complete the level.
 
 ## Specifications
 Software | Purpose
 ---|---
 Unity2D | Main tool, this will be used as the game engine
-Internet Commons | This will be the source of  placeholder character art
+Internet Commons | This will be the source of placeholder character art
 Visual Studio Code | Scripting in C#
 Future Development | Music and audio effects
 
-The game architecture will rely heavily on inheritance. See discussion in [Architecture Options](Architecture\options.md) 
+The game architecture will rely heavily on inheritance. See discussion in [Architecture](Architecture\options.md) 
+
+## Justification
+Read the design justification [here](project_justification.md).
 
 ## Gameplay
 
 Gameplay adopts side-scroller movement style. The player controls Road Runner through the keyboard. 
 
-Road Runner starts with three health units. An appropriate graphic will be chosen to represent these. Health units will be deducted on contact with an enemy or similar hazard. We will include an option to vary the number of starting and maximum haelth units according to the level. 
+Road Runner starts with three health units. An appropriate graphic will be chosen to represent these. Health units will be deducted on contact with an enemy or similar hazard. We will include an option to vary the number of starting and maximum health units according to the level. 
 
 At this stage of development, the game will feature one level. However, additional levels can easily be created by changing the level of difficulty. By increasing the rate enemy objects are spawned, for example.
 
-The goal is for Road Runner to accumulate points. This can be achieved by collectiing pickups or destroying enemy objects by landing on them. Some pickups will  enable a player to restore health or receive jump benefits.
+The goal is for Road Runner to accumulate points. This can be achieved by collecting pickups or destroying enemy objects by landing on them. Some pickups will enable a player to restore health or receive jump benefits.
 
 ### Game Progression
 
 This will be achieved by completing levels of increasing difficulty. We will provide a number of ways to adjust difficulty. While no means exhaustive such tweaks will include:
 
 * Change starting health of player.
-* Change the rate pickups a re spawned.
+* Change the rate pickups a re-spawned.
 * Change the rate enemies are spawned.
-* Allow more than one enemey to be on the screen at once.
+* Allow more than one enemy to be on the screen at once.
 * Introduce enemy characters of increased difficulty. Such as faster movement and more damage to player.
 
 ## Mechanics
@@ -113,12 +123,11 @@ These will be used to detect collisions above or below Road Runner. These collis
 
 During development, if Unity's ray or box colliders prove to be a better approach, this method may be implemented instead.
 
-When landing on an enemy or a pickup, the game object will not be destroyed. Instead it will be deactivated and remain in the array for future use.
+When landing on an enemy or a pickup, the game object will not be destroyed. Instead, it will be deactivated and remain in the array for future use.
 
 Collisions will be handled by Unity's Collider2D. Enemies will appear in a black list.
 
 If the parent object, and not the child comes into contact with an enemy object Road Runner will lose a certain number of health points. The points lost will vary according to the type of enemy object.
-
 
 ### Scoring
 
@@ -150,7 +159,7 @@ Enemies will be instantiated and will move in one direction. There will be the o
 
 This stage of game development operates on the understanding that game artwork will be provided by a third party. We will develop with our own placeholder artwork that can easily be swapped out.
 
-The game design will look as follows:.
+The game design will look as follows:
 
 ![alt text](<Game Layout.png>)
 
@@ -167,8 +176,9 @@ Naturally, we will advise if it looks like we may fall behind in schedule.
 
 # Agreement
 
-By accepting this proposal you agree to enter into a contract with Roadrunner Gaming, Inc for the development of the above game. 
+By accepting this proposal, you agree to enter into a contract with Roadrunner Gaming, Inc for the development of the above game. 
 
 Such contract will be governed by our standard terms and conditions (available on our website or on request). The "Product" referred to in these terms and conditions is the game described in this document.
+
 
 
