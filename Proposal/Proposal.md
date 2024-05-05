@@ -6,7 +6,7 @@
 
 Road Runner Escape is a side-scroller with multiple levels based on Super Mario. We believe there is a nostalgia market for such games and our aim is to improve this much-loved classic through the introduction of eye-catching graphics and progressively more difficult levels. 
 
-The player character ("**Road Runner**") moves in jump 'n' run style as it navigates each level. Collecting power-ups, defeating enemies along the way.
+The player character ("**Road Runner**") moves in jump 'n' run style as it navigates each level. Collecting pickups and defeating enemies along the way.
 
 Each level consists of a platform, hills and interactive elements such as pickups. To make it more challenging randomly generated enemies will appear which Road Runner will either evade or destroy.
 
@@ -117,7 +117,7 @@ When landing on an enemy or a pickup, the game object will not be destroyed. Ins
 
 Collisions will be handled by Unity's Collider2D. Enemies will appear in a black list.
 
-If the parent object, and not the child comes into contact with an enemy object Road Runner will lose a certain number of health points. The points lost will vary according tot he type of enemy object.
+If the parent object, and not the child comes into contact with an enemy object Road Runner will lose a certain number of health points. The points lost will vary according to the type of enemy object.
 
 
 ### Scoring
@@ -150,7 +150,7 @@ Enemies will be instantiated and will move in one direction. There will be the o
 
 This stage of game development operates on the understanding that game artwork will be provided by a third party. We will develop with our own placeholder artwork that can easily be swapped out.
 
-The game design will be as follows:.
+The game design will look as follows:.
 
 ![alt text](<Game Layout.png>)
 
