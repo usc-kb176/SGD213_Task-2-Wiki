@@ -163,7 +163,7 @@ The game design will look as follows:
 
 ![alt text](<Game Layout.png>)
 
-# Anticipated Completion Schedule
+## Anticipated Completion Schedule
 
 Deadline | Task
 ---|---
@@ -172,9 +172,9 @@ Week 11 | Scrollable background and scenery
 Week 12 | Enemies and pickups
 Week 13 | Scoring, menus, loading and saving game
 
-Naturally, we will advise if it looks like we may fall behind in schedule.
+Naturally, we will advise if it looks like this schedule requires revision. Notwithstanding any such revision Week 13 remains a firm date for completion.
 
-# Agreement
+## Agreement
 
 By accepting this proposal, you agree to enter into a contract with Roadrunner Gaming, Inc for the development of the above game. 
 
